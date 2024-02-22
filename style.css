@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.todo-container {
+    margin: 0 auto;
+    width: 300px;
+}
+
+#taskList {
+    list-style: none;
+    padding: 0;
+}
+
+#taskList li {
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#taskList li.completed {
+    text-decoration: line-through;
+}
+
+button {
+    cursor: pointer;
+}
