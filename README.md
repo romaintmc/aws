@@ -1,8 +1,9 @@
 # TP AWS
 
-URL Front : https://todolist-tamic.s3.eu-north-1.amazonaws.com/index.html
-URL Bucket S3 : https://s3.console.aws.amazon.com/s3/buckets/todolist-tamic?region=eu-north-1&bucketType=general&tab=objects
-URL API Gateway : https://eu-north-1.console.aws.amazon.com/apigateway/main/apis/ykqt5dlvjb/resources/?api=ykqt5dlvjb&experience=rest&region=eu-north-1&resource-path=%2Fdelete
+Liens Front/Back :
+- URL Front : https://todolist-tamic.s3.eu-north-1.amazonaws.com/index.html
+- URL Bucket S3 : https://s3.console.aws.amazon.com/s3/buckets/todolist-tamic?region=eu-north-1&bucketType=general&tab=objects
+- URL API Gateway : https://eu-north-1.console.aws.amazon.com/apigateway/main/apis/ykqt5dlvjb/resources/?api=ykqt5dlvjb&experience=rest&region=eu-north-1&resource-path=%2Fdelete
 
 Ressources utilisées (Lambda): 
 
